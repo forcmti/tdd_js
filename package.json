@@ -1,0 +1,23 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ekafe.com"
+  },
+  "keywords": [
+    "ttd",
+    "testing",
+    "ml"
+  ],
+  "author": "mnkm",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
